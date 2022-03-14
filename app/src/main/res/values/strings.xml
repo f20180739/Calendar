@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalendarApp</string>
+    <string-array name="MonthList">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>New York</item>
+        <item>Istanbul</item>
+        <item>Dubai</item>
+        <item>Kuala Lumpur</item>
+        <item>Hong Kong</item>
+        <item>Barcelona</item>
+
+    </string-array>
+</resources>
